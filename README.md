@@ -2,6 +2,7 @@
 
 template repository that LLazyEmail using for creating email templates using react design system that we are building right now
 
+https://github.com/LLazyEmail/remix-ecommerce-react-email-template
 
 ```
 src
